@@ -14,7 +14,7 @@ La adopción de Edge Computing en este proyecto se fundamenta en tres pilares:
 
 ## Arquitectura del Sistema
 
-El diseño consta de un brazo de monitoreo donde el Cisco Catalyst 2960-X actúa como recolector de tráfico mediante puertos SPAN, y la Raspberry Pi 5 actúa como procesador de seguridad corriendo el motor Suricata. La respuesta se automatiza mediante scripts de Netmiko que modifican dinámicamente las tablas de direcciones MAC del switch.
+El diseño consta de un brazo de monitoreo donde el Cisco Catalyst 2960-X actúa como recolector de tráfico mediante puertos SPAN, y la Raspberry Pi 4 actúa como procesador de seguridad corriendo el motor Suricata. La respuesta se automatiza mediante scripts de Netmiko que modifican dinámicamente las tablas de direcciones MAC del switch.
 
 ### Especificaciones de Hardware y Presupuesto
 
