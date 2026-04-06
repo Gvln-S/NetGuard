@@ -30,5 +30,5 @@ El diseño consta de un brazo de monitoreo donde el Cisco Catalyst 2960-X actúa
 
 ## Contributions and Personalization
 
-This is an open project for learning and experimentation. **You are more than welcome to fork this repository!** Feel free to add new textures, implement a complex lighting systems, or even add enemies. If you want to customize it to your tastes or add something new, contributions are always appreciated.
+This is an open project for learning and experimentation. **You are more than welcome to fork this repository!**. If you want to customize it to your tastes or add something new, contributions are always appreciated.
 
